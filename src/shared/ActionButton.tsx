@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react"
+import { ReactNode } from "react"
 import { SelectedPage } from "./types";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
